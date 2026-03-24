@@ -15,4 +15,4 @@
 - **[nanoS3](https://github.com/marques576/nanoS3)** — A minimalist S3-compatible object store in pure Python.
 - **[mcp-server-yeelight-lan](https://github.com/marques576/mcp-server-yeelight-lan)** — An MCP server to control your yeelight lights.
 - **[irs-jovem-2025-rag-chat](https://github.com/marques576/irs-jovem-2025-rag-chat)** — A RAG-powered chatbot providing information about IRS Jovem, a Portuguese tax benefit for young workers.
-- **[irs-jovem-2025-rag-chat](https://github.com/marques576/irs-jovem-2025-rag-chat)** — A RAG-powered chatbot providing information about IRS Jovem, a Portuguese tax benefit for young workers.
+- **[cc-cloud](https://github.com/marques576/cc-cloud)** — Cloud project
