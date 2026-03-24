@@ -7,4 +7,12 @@
   <a href="https://www.linkedin.com/in/tomas-marques-19b531142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![](https://github.com/marques576/marques576/blob/master/assests/gif.gif)
+<img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
+
+- **[save_clipboard_image](https://github.com/marques576/save_clipboard_image)** — Save image from clipboard to disk.
+- **[imou-ipcam-snapshot-client](https://github.com/marques576/imou-ipcam-snapshot-client)** — Aasynchronous fetching and display live images from an Imou camera.
+- **[awsprofile-cli](https://github.com/marques576/awsprofile-cli)** — Interactive AWS profile switcher using fzf.
+- **[nanoS3](https://github.com/marques576/nanoS3)** — A minimalist S3-compatible object store in pure Python.
+- **[mcp-server-yeelight-lan](https://github.com/marques576/mcp-server-yeelight-lan)** — An MCP server to control your yeelight lights.
+- **[irs-jovem-2025-rag-chat](https://github.com/marques576/irs-jovem-2025-rag-chat)** — A RAG-powered chatbot providing information about IRS Jovem, a Portuguese tax benefit for young workers.
+- **[irs-jovem-2025-rag-chat](https://github.com/marques576/irs-jovem-2025-rag-chat)** — A RAG-powered chatbot providing information about IRS Jovem, a Portuguese tax benefit for young workers.
