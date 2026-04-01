@@ -9,7 +9,7 @@
 
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
-- **[save_clipboard_image](https://github.com/marques576/ctrlv2disk)** — Save anything from clipboard to disk.
+- **[ctrlv2disk](https://github.com/marques576/ctrlv2disk)** — Save anything from clipboard to disk.
 - **[imou-ipcam-snapshot-client](https://github.com/marques576/imou-ipcam-snapshot-client)** — Aasynchronous fetching and display live images from an Imou camera.
 - **[awsprofile-cli](https://github.com/marques576/awsprofile-cli)** — Interactive AWS profile switcher using fzf.
 - **[nanoS3](https://github.com/marques576/nanoS3)** — A minimalist S3-compatible object store in pure Python.
