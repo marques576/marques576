@@ -9,6 +9,7 @@
 
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
+- **[OpenSpend](https://github.com/marques576/agentic-research-graph)** — A local, multimodal, agentic knowledge-graph builder.
 - **[OpenSpend](https://github.com/marques576/OpenSpend)** — A fully local, private Android spending tracker.
 - **[ctrlv2disk](https://github.com/marques576/ctrlv2disk)** — Save anything from clipboard to disk.
 - **[imou-ipcam-snapshot-client](https://github.com/marques576/imou-ipcam-snapshot-client)** — Aasynchronous fetching and display live images from an Imou camera.
