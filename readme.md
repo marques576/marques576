@@ -9,7 +9,7 @@
 
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
-- **[flamewhisper](https://github.com/marques576/flamewhisper)** — A macOS push-to-talk dictation app that transcribes speech to clipboard using on-device MLX Whisper (WhisperKit).
+- **[flamewhisper](https://github.com/marques576/flamewhisper)** — A macOS push-to-talk dictation app that transcribes speech to clipboard using on-device MLX Whisper.
 - **[agentic-research-graph](https://github.com/marques576/agentic-research-graph)** — A local, multimodal, agentic knowledge-graph builder.
 - **[OpenSpend](https://github.com/marques576/OpenSpend)** — A fully local, private Android spending tracker.
 - **[ctrlv2disk](https://github.com/marques576/ctrlv2disk)** — Save anything from clipboard to disk.
