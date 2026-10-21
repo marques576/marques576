@@ -10,7 +10,7 @@
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
 - 🔊 [Claude TTS](https://github.com/marques576/claude-tts) — Local Text-to-speech for Claude Code.
-- 🍊 [Clementine](https://github.com/marques576/Clementine) — Anything to anything conversion via WASM.
+- 🍊 [Clementine](https://github.com/marques576/Clementine) — Anything to anything file conversion via WASM.
 - **[flamewhisper](https://github.com/marques576/flamewhisper)** — A macOS push-to-talk dictation app that transcribes speech to clipboard using on-device MLX Whisper.
 - **[agentic-research-graph](https://github.com/marques576/agentic-research-graph)** — A local, multimodal, agentic knowledge-graph builder.
 - **[OpenSpend](https://github.com/marques576/OpenSpend)** — A fully local, private Android spending tracker.
