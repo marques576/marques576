@@ -9,11 +9,11 @@
 
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
-- 🔊 **[Claude TTS](https://github.com/marques576/claude-tts)** — Local Text-to-speech for Claude Code.
-- 🍊 **[Clementine](https://github.com/marques576/Clementine)** — Anything to anything file conversion via WASM.
+- 🔊 **[claude TTS](https://github.com/marques576/claude-tts)** — Local Text-to-speech for Claude Code.
+- 🍊 **[clementine](https://github.com/marques576/clementine)** — Anything to anything file conversion via WASM.
 - 🔥 **[flamewhisper](https://github.com/marques576/flamewhisper)** — A macOS push-to-talk dictation app that transcribes speech to clipboard using on-device MLX Whisper.
 - 🕸️ **[agentic-research-graph](https://github.com/marques576/agentic-research-graph)** — A local, multimodal, agentic knowledge-graph builder.
-- 💸 **[OpenSpend](https://github.com/marques576/OpenSpend)** — A fully local, private Android spending tracker.
+- 💸 **[openspend](https://github.com/marques576/openopend)** — A fully local, private Android spending tracker.
 - 📋 **[ctrlv2disk](https://github.com/marques576/ctrlv2disk)** — Save anything from clipboard to disk.
 - 📷 **[imou-ipcam-snapshot-client](https://github.com/marques576/imou-ipcam-snapshot-client)** — Aasynchronous fetching and display live images from an Imou camera.
 - 🔀 **[awsprofile-cli](https://github.com/marques576/awsprofile-cli)** — Interactive AWS profile switcher using fzf.
