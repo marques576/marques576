@@ -9,6 +9,7 @@
 
 <img src="https://github.com/marques576/marques576/blob/master/assests/gif.gif" width="25%">
 
+- 📡 **[esp8266-uptime-monitor](https://github.com/marques576/esp8266-uptime-monitor)** — Uptime Kuma-style HTTP, TCP and ping monitoring on an ESP8266, with a web UI and Discord alerts.
 - 🔊 **[claude TTS](https://github.com/marques576/claude-tts)** — Local Text-to-speech for Claude Code.
 - 🍊 **[clementine](https://github.com/marques576/clementine)** — Anything to anything file conversion via WASM.
 - 🔥 **[flamewhisper](https://github.com/marques576/flamewhisper)** — A macOS push-to-talk dictation app that transcribes speech to clipboard using on-device MLX Whisper.
